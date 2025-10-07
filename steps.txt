@@ -1,0 +1,9 @@
+Copy all text in install.txt
+paste text in your terminal
+press enter
+wait for it to process
+when you see green bar on bottom click it
+then press Install NOW
+wait for it to finish (might take 10 minutes)
+once it's done you can click open in browser if you see notification
+if don't see notification click ports then the button that has like a globe.
